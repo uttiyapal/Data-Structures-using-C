@@ -13,21 +13,8 @@ int main()
     // scanf("%x", &u); /* reads u in base 16 */
     printf("%x\n", u); /* writes u in base 16 */
 
-    short s;
-
-    scanf("%hd", &s);
-    printf("%hd\n", s);
-
-    long l;
-
-    scanf("%ld", &l);
-    printf("%ld\n", l);
-
-    double d;
-    scanf("%lf", &d);
-
-    char ch;
-
-    scanf("%c", &ch); /* reads a single character */
-    printf("%c\n", ch); /* writes a single character */
+    /* Input:229
+    229
+    345
+    e5 */
 }
